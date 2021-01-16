@@ -4,6 +4,8 @@ from routes.band import get_post
 from commands.clan import Clan
 from commands.player import Player
 from commands.warlog import Warlog
+from commands.joke import Joke
+from commands.help import Help
 
 
 class BandBot:
@@ -15,6 +17,8 @@ class BandBot:
             Clan(self.get_all_post)
             Player(self.get_all_post)
             Warlog(self.get_all_post)
+            Joke(self.get_all_post)
+            Help(self.get_all_post)
 
             time.sleep(60)
 
