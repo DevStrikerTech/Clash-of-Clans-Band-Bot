@@ -2,7 +2,7 @@
 
 # Clash-of-Clans-Band-Bot
 
-[![Tutorial](https://raw.githubusercontent.com/DevStrikerTech/Python-Security-in-Nutshell/main/asset/Part%20-%201.png)](https://www.youtube.com/watch?v=0OissK4-sRM "Tutorial")
+[![Tutorial](https://raw.githubusercontent.com/DevStrikerTech/Python-Security-in-Nutshell/main/asset/Part%20-%201.png)](https://youtube.com/playlist?list=PL9nZZVP3OGOCjj2lLux31QQ6kyqt89zDL")
 
 ## Software
 ```bash
