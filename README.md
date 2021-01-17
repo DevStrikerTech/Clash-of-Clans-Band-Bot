@@ -2,7 +2,7 @@
 
 # Clash-of-Clans-Band-Bot
 
-[![Tutorial](https://raw.githubusercontent.com/DevStrikerTech/Chess-Engine/master/assets/Promotion%20Poster.png)](https://www.youtube.com/playlist?list=PL9nZZVP3OGOCjj2lLux31QQ6kyqt89zDL")
+[![Tutorial](https://raw.githubusercontent.com/DevStrikerTech/Chess-Engine/master/assets/Promotion%20Poster.png)](https://www.youtube.com/watch?v=3tVtdNTtH4k")
 
 ## Software
 ```bash
