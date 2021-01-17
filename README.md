@@ -29,7 +29,7 @@ Clash of Clans: https://supercell.com/en/games/clashofclans/
 ```bash
 Clash of Clans API: https://developer.clashofclans.com/
 Band Open API: https://developers.band.us/develop/guide/api
-Official Joke API:  https://github.com/15Dkatz/official_joke_api
+Official Joke API: https://github.com/15Dkatz/official_joke_api
 ```
 
 ## Social
