@@ -14,6 +14,7 @@ Git: https://git-scm.com/
 
 ## Python Package
 ```bash
+Python-dotenv: https://pypi.org/project/python-dotenv/
 Requests: https://pypi.org/project/requests/
 Emoji: https://pypi.org/project/emoji/
 ```
