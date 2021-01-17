@@ -22,6 +22,7 @@ Emoji: https://pypi.org/project/emoji/
 ## Application
 ```bash
 Band: https://band.us/en
+Clash of Clans: https://supercell.com/en/games/clashofclans/
 ```
 
 ## Documentation
