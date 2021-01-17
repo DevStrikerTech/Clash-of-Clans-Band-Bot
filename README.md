@@ -3,6 +3,7 @@
 # Clash-of-Clans-Band-Bot
 Clash of Clans Band Bot Crash Course
 
+[![Tutorial](https://raw.githubusercontent.com/DevStrikerTech/Python-Security-in-Nutshell/main/asset/Part%20-%201.png)](https://www.youtube.com/watch?v=0OissK4-sRM "Tutorial")
 
 ## Software
 ```bash
