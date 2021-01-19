@@ -28,11 +28,11 @@ class Warlog:
 
                 else:
                     write_comment(comment_body=f"Fatching Data: {emoji.emojize(':dizzy:')}", post_key=post_key)
-                    warlog_response_content = coc_request(f'/clans/%23{clan_tag}/warlog?limit=2')['items']
-                    
+                    warlog_response_content = coc_request(f'/clans/%23{clan_tag}/warlog?limit=1')['items']
+
                     warlog_result = ''
-                                  
+
                     for warlog in warlog_response_content:
-                                  warlog_result = warlog_result + f"{warlog['clan']['name']} VS {warlog['opponent']['name']}"
+                        warlog_result = warlog_result + f"{warlog['clan']['name']} VS {warlog['opponent']['name']}"
 
                     write_post(post_content=warlog_result)
