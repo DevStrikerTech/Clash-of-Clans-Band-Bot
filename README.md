@@ -39,3 +39,4 @@ Official Joke API: https://github.com/15Dkatz/official_joke_api
 Website: https://devstriker.tech/
 Discord: https://discord.gg/ef5KsqP
 ```
+
